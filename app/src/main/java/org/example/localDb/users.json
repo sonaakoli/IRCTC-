@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Shonali koli",
+    "password": "12345",
+    "hashed_password": "$2a$10$MqonEcizso4Re9iFEMajHOIHCUd5O3Q.XZX779C50ZnC/Hb6mirwW",
+    "tickets_booked": [
+      {
+        "ticket_id": "3269791",
+        "user_id": "abcdsfgh",
+        "source": "Bangalore",
+        "destination": "Delhi",
+        "date_of_travel": "2025_05-08T18:30:00z",
+      "train": {
+        "train_id": "bscd",
+        "train_no": "12345",
+        "seats": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "station_times": {
+          "Bangalore": "13:50:00",
+          "Jaipur": "13:50:00",
+          "Delhi": "13:50:00"
+        },
+        "stations": [
+          "Banglore",
+          "Jaipur",
+          "Delhi"
+        ],
+        "train_info": "Train ID: bscd Train No: 12345"
+      },
+        "ticket_info": "Ticket ID: 3269791 belongs to User abcdsfgh from Bangalore to Delhi on 2025-12-08T18:30:00Z"
+      }
+    ],
+    "user_id": "abcdsfgh"
+  },
+  {"name": "Shonali",
+  "password": "hhbb11",
+  "hashed_password": "$2a$10$O/OWE.xh3gttMANiM4BIX.mo.4/myik1J739DZ25ecVENk8xhMCW2",
+  "ticket_booked": [],
+  "user_id": "fe46da4d-c8d1-4229-97e6-600dce6941e8"}
+]
